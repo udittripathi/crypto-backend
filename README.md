@@ -1,5 +1,16 @@
 # crypto-backend
 
+## To run:
+```
+git clone https://github.com/udittripathi/crypto-backend.git
+```
+```
+npm i
+```
+
+```
+nodemon index.js
+```
 
 ### Task 1
 http://localhost:5000/cryptocurrencies
