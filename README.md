@@ -18,8 +18,8 @@ http://localhost:5000/price
    ```
 ### Task 3
 http://localhost:5000/companies/public_treasury
--API endpoint to get the list of companies that hold a particular cryptocurrency
--request body
+- API endpoint to get the list of companies that hold a particular cryptocurrency
+- request body
 ```
   {
   "currency" : "bitcoin"
